@@ -3,6 +3,6 @@ PW2 LabD
 Integrantes:
 * Jose
 * Pedro
-* Moises
+* Moises Enrique Mayta Condori
 * David
 * Anthony Juancarlo Rivas Chire
