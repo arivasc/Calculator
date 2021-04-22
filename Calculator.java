@@ -1,7 +1,7 @@
 class Calculator{
     int add(int a, int b){ 
-	int c;	
-	    return 0; 
+	    int c=a+b;	
+	    return c; 
     } 
     int sub(int a, int b){ return 0; }
     int mul(int a, int b){ return 0; }
