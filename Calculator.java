@@ -1,5 +1,6 @@
 class Calculator{
     int add(int a, int b){ 
+	int c;	
 	    return 0; 
     } 
     int sub(int a, int b){ return 0; }
