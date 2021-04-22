@@ -1,8 +1,8 @@
 Ejercicio propuesto: Calculator
 PW2 LabD
 Integrantes:
-* Jose
-* Pedro
+* José Miguel Cano Vilcapaza
+* Pedro Roly Sanches Machicao
 * Moises Enrique Mayta Condori
-* David
+* David Flores Silva
 * Anthony Juancarlo Rivas Chire
