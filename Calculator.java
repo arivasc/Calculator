@@ -13,7 +13,10 @@ class Calculator{
         return mul;
     }
     
-    int div(int a, int b){ return 0; }
+    int div(int a, int b){ 
+	int division = a/b;
+	return division; 
+    }
     
     int mod(int a, int b){
         int mod = a % b;
